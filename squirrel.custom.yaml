@@ -10,7 +10,7 @@ patch:
         font_point: 15.0
         candidate_list_layout: linear
         text_orientation: horizontal
-        inline_preedit: false
+        inline_preedit: true
         translucency: true
         mutual_exclusive: true
         corner_radius: 15.0
@@ -40,7 +40,7 @@ patch:
         font_point: 15.0
         candidate_list_layout: linear
         text_orientation: horizontal
-        inline_preedit: false
+        inline_preedit: true 
         translucency: true
         mutual_exclusive: true
         corner_radius: 15.0
